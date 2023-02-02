@@ -26,7 +26,7 @@ QUE-2
    NONFUNCTIONAL aspects    
    1. This app shoud be easy for user.
    2. Also low-latency and optimized for real time.
-   3. Efficent performance and security.\
+   3. Efficent performance and security.
    
   Scope : The scope of the problem is create a mobile app for people that disabling hearing loss.
   
